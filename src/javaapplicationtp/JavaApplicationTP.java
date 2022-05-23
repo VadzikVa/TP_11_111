@@ -7,7 +7,7 @@ package javaapplicationtp;
 
 /**
  *
- * @author 071110
+ * @author i am
  */
 public class JavaApplicationTP {
 
